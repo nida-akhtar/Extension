@@ -1,0 +1,17 @@
+# Python environment
+env/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Node.js modules
+node_modules/
+
+# Log files
+*.log
+
+# Other
+.DS_Store
